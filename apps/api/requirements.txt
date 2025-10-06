@@ -1,0 +1,8 @@
+flask==3.0.3
+pydantic[dotenv]==2.9.2
+sentence-transformers==3.0.1
+faiss-cpu==1.8.0.post1
+numpy==1.26.4
+pdfminer.six==20240706
+python-docx==1.1.2
+flask-cors==4.0.1
